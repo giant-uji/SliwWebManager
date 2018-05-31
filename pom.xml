@@ -6,7 +6,7 @@
 
 	<groupId>es.uji.al259348</groupId>
 	<artifactId>sliwwebmanager</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT-CONTROL</version>
 	<packaging>jar</packaging>
 
 	<name>SliwWebManager</name>
